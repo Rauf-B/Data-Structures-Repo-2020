@@ -1,0 +1,5 @@
+1 wasted 35 100
+2 remarkable 30 70
+3 killer 10 80
+4 game 5 50
+5 drowning 5 50
