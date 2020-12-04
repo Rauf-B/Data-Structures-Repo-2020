@@ -1,6 +1,6 @@
 # Data-Structures-Repo-2020
 
-Hello! My name is Rauf and I'm currently a student a Computer Science major. I'm setting up this repository to document and save my assignments. However, to allow code reusability for others and for other uses, I'm setting this repository public. 
+Hello! My name is Rauf and I'm currently a Computer Science major. I'm setting up this repository to document and save my work regarding data structures and general object oriented paradigm. However, to allow code reusability for others and for other uses, I'm setting this repository to public. 
 
 Please note that currently I'm only maintaining the branch consisting of C++, I will add C#, Java and C later on.
 
